@@ -8,7 +8,7 @@
 
 ## Overview
 
-**This is the sample scripts for managing a lot of Google Calendar Events using the batch requests with Google Apps Script.**
+**These are the sample scripts for managing a lot of Google Calendar Events using the batch requests with Google Apps Script.**
 
 <a name="description"></a>
 
